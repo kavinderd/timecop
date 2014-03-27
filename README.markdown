@@ -1,6 +1,6 @@
 # timecop
 
-[![Build Status](https://secure.travis-ci.org/travisjeffery/timecop.png)](http://travis-ci.org/travisjeffery/timecop)
+[![Build Status](https://secure.travis-ci.org/kavinderd/timecop.png)](http://travis-ci.org/kavinderd/timecop)
 
 ## DESCRIPTION
 
