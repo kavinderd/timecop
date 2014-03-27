@@ -184,7 +184,7 @@ class TestTimeStackItem < Test::Unit::TestCase
     time = Time.zone.local(2013,1,3)
 
     Timecop.freeze(time) do
-      assert_equal time.to_date, Time.now.to_date
+      assert_equal time.to_date, Time.zone.now.to_date
     end
   end
 
